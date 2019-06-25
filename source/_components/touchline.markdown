@@ -24,7 +24,7 @@ To set it up, add the following information to your `configuration.yaml` file:
 ```yaml
 climate:
   - platform: touchline
-    host: YOUR_IPADDRESS
+    host: http://YOUR_IPADDRESS
 ```
 
 {% configuration %}
